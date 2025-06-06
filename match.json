@@ -1,0 +1,88 @@
+<div class="list-area" style="width: 100%;">
+            <div class="bet-matches" style="width: 100%;">
+                <div id="real-matches" class="real-matches" style="width: 100%;">
+                    <div class="match-cover" style="width: 100%;">
+                        <div class="match-tab-box" style="display: block; width: 100%;">
+                            <!-- Maçlar İçeriği Buraya Eklenecek -->
+                            <div id="matches-content" style="width: 100%;"><a class="single-match show" href="channel?id=yayinnbatv" data-matchtype="Futbol" target="macth-video">
+    <img src="https://upload.wikimedia.org/wikipedia/en/2/20/Kriol_Star_logo.png" style="border-radius:0px !important;" width="20" height="20" loading="lazy">
+    <div class="match-detail">
+        <div class="date">Basketbol</div>
+        <div class="event">17:00 | Basketbol Afrika Ligi Play Off Final</div>
+        <div class="teams">
+            <div class="home">Kriol Star</div>
+            <div class="away">FUS Rabat</div>
+        </div>
+    </div>
+    <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/60/FUS_Rabat_%28logo%29.svg/1695px-FUS_Rabat_%28logo%29.svg.png" style="border-radius:0px !important;" width="20" height="20" loading="lazy">
+</a>
+
+<a class="single-match show" href="channel?id=yayintv85" data-matchtype="Futbol" target="macth-video">
+    <img src="https://img.sporekrani.com/tr_w_36,h_36,c_limit/teams/Dp0PU1OtAqOdmHxcOuncWBEDVGB928X14XkWKBug.png" style="border-radius:0px !important;" width="20" height="20" loading="lazy">
+    <div class="match-detail">
+        <div class="date">Futbol</div>
+        <div class="event">19:00 | Hazırlık Maçı</div>
+        <div class="teams">
+            <div class="home">Bulgaristan</div>
+            <div class="away">Güney Kıbrıs</div>
+        </div>
+    </div>
+    <img src="https://img.sporekrani.com/tr_w_36,h_36,c_limit/teams/GkzK0fB3AjkNXD1mJE3ITCiWt7TH7XLZGuYiaYyO.png" style="border-radius:0px !important;" width="20" height="20" loading="lazy">
+</a>
+
+<a class="single-match show" href="channel?id=yayinsmarts" data-matchtype="Futbol" target="macth-video">
+    <img src="https://img.sporekrani.com/tr_w_36,h_36,c_limit/teams/gMmimeahKcq4SB7F0XluPo2EgJGWX62genaw5MDa.png" style="border-radius:0px !important;" width="20" height="20" loading="lazy">
+    <div class="match-detail">
+        <div class="date">Basketbol</div>
+        <div class="event">20:00 | İspanya Basketbol Ligi Play-Off Çeyrek Final</div>
+        <div class="teams">
+            <div class="home">Barcelona</div>
+            <div class="away">Unicaja Malaga</div>
+        </div>
+    </div>
+    <img src="https://img.sporekrani.com/tr_w_36,h_36,c_limit/teams/R6FzdPyptQtbSXMzoW82uzLiM3fIvqQHuin9fLfE.png" style="border-radius:0px !important;" width="20" height="20" loading="lazy">
+</a>
+
+<a class="single-match show" href="channel?id=yayinb5" data-matchtype="Futbol" target="macth-video">
+    <img src="https://img.sporekrani.com/tr_w_36,h_36,c_limit/teams/12960170-56cc-435f-a5d4-42749df84793.png" style="border-radius:0px !important;" width="20" height="20" loading="lazy">
+    <div class="match-detail">
+        <div class="date">Basketbol</div>
+        <div class="event">20:30 | Basketbol Süper Ligi Play-Off Yarı Final</div>
+        <div class="teams">
+            <div class="home">Beşiktaş Fibabanka</div>
+            <div class="away">Anadolu Efes</div>
+        </div>
+    </div>
+    <img src="https://img.sporekrani.com/tr_w_36,h_36,c_limit/teams/7NXfuFWZCNXytgMhlDQAXuZmXYmlv3kt5Vb3Ol5M.png" style="border-radius:0px !important;" width="20" height="20" loading="lazy">
+</a>
+
+<a class="single-match show" href="channel?id=yayintv85" data-matchtype="Futbol" target="macth-video">
+    <img src="https://img.sporekrani.com/tr_w_36,h_36,c_limit/teams/GaGdrcDlvz08HQDGMKTAob62ophtHDGwjnbiAX4o.png" style="border-radius:0px !important;" width="20" height="20" loading="lazy">
+    <div class="match-detail">
+        <div class="date">Futbol</div>
+        <div class="event">21:45 | 2026 Dünya Kupası Eleme</div>
+        <div class="teams">
+            <div class="home">Norveç</div>
+            <div class="away">İtalya</div>
+        </div>
+    </div>
+    <img src="https://img.sporekrani.com/tr_w_36,h_36,c_limit/teams/3KqZbnGcwy66EDpIbZIyHEmY5uT8O3HhJIxvGfyj.png" style="border-radius:0px !important;" width="20" height="20" loading="lazy">
+</a>
+
+<a class="single-match show" href="channel?id=yayinsmarts" data-matchtype="Futbol" target="macth-video">
+    <img src="https://img.sporekrani.com/tr_w_36,h_36,c_limit/teams/7W6dPZOB4AYV93KTCSdYUWauRGtiaf6IAerqX85t.png" style="border-radius:0px !important;" width="20" height="20" loading="lazy">
+    <div class="match-detail">
+        <div class="date">Basketbol</div>
+        <div class="event">22:15 | İspanya Basketbol Ligi Play-Off Çeyrek Final</div>
+        <div class="teams">
+            <div class="home">Baskonia</div>
+            <div class="away">Real Madrid</div>
+        </div>
+    </div>
+    <img src="https://img.sporekrani.com/tr_w_36,h_36,c_limit/teams/tGkJGgNyCmYK4sBJa0c8fePaLQoJuH1103BH1Tv7.png" style="border-radius:0px !important;" width="20" height="20" loading="lazy">
+</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
